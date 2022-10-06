@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-mr -rf /tmp/my_first_directory
-=======
-mrdir -rf /tmp/my_first_directory
->>>>>>> ff736f2a9d796d4f6ba377c19e6f1a298ed81ca4
+rmdir /tmp/my_first_directory
