@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | wc -lR
+ls -l './*' | wc -l
